@@ -63,5 +63,9 @@
     "dist",
     "node_modules",
     "*.d.ts"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }

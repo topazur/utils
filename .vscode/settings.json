@@ -10,6 +10,7 @@
     "esbuild",
     "esno",
     "IMEI",
-    "reghhmmss"
+    "reghhmmss",
+    "unpublish"
   ]
 }
