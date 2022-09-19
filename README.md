@@ -7,11 +7,13 @@ Collection of common JavaScript / TypeScript utils
 
 ## Features
 
-- [base](/topazur/utils/blob/main/src/base.ts)
+- [base](src/base.ts)
 
-- [random](/topazur/utils/blob/main/src/random.ts)
+- [random](src/random.ts)
 
-- [regexp](/topazur/utils/blob/main/src/regexp.ts) depend on [any-rule](https://github.com/any86/any-rule)
+- [regexp](src/regexp.ts) depend on [any-rule](https://github.com/any86/any-rule)
+
+- [throttle-debounce](src/vendor.ts) depend on [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
 
 ## License
 

@@ -42,6 +42,9 @@
     "test": "vitest",
     "lint": "eslint --fix --ext .ts ."
   },
+  "dependencies": {
+    "throttle-debounce": "^5.0.0"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^0.27.0",
     "@rollup/plugin-alias": "^3.1.9",
@@ -49,6 +52,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^14.1.0",
     "@types/node": "^18.7.18",
+    "@types/throttle-debounce": "^5.0.0",
     "bumpp": "^8.2.1",
     "eslint": "^8.23.1",
     "esno": "^0.16.3",
