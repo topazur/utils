@@ -1,6 +1,6 @@
 {
   "name": "@odinlin/utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Opinionated collection of common JavaScript / TypeScript utils by @odinlin",
   "author": "odinlin <topazur@163.com>",
   "license": "MIT",
