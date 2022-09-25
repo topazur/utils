@@ -14,7 +14,11 @@ Collection of common JavaScript / TypeScript utils
 
 - [regexp](src/regexp.ts) depend on [any-rule](https://github.com/any86/any-rule)
 
-- [throttle-debounce](src/vendor.ts) depend on [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
+- <b>vendor modules</b>
+
+  - [throttle-debounce](src/vendor/index.ts) depend on [throttle-debounce](https://www.npmjs.com/package/throttle-debounce)
+
+  - [to](src/vendor/index.ts) depend on [await-to-js](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 ## License
 
